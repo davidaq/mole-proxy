@@ -15,7 +15,7 @@ if (argv[0] == 'udp') {
 }
 
 if (Math.floor(argv[0]) == argv[0]) {
-    argv.unshift('cp01-rdqa-dev418.cp01.baidu.com:8008');
+    argv.unshift('cp01-rdqa-dev418-anqin-iwm.epc.baidu.com:8008');
 }
 
 if (argv[0] == 'server' && !argv[1]) {
